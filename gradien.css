@@ -1,0 +1,38 @@
+
+*{
+ 
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  background-image: url(https://i.postimg.cc/3wKxGhCJ/Curiosity-blue.png);
+  background-position: bottom;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;  
+}
+html, body {
+  height: 90%;
+  margin: 0;
+}
+h3{
+  
+  display: flex;
+    text-align: center;
+    justify-content: center;  
+}
+h2{
+    color: #c5c219;
+    justify-content: center;
+    text-align: center;  
+}
+button{
+font-weight: bold;
+width: 10%;
+padding: 5px 0;
+border: solid white;
+background-color:#09c768;
+font-size: 21px;
+color: #fafafa;
+}
